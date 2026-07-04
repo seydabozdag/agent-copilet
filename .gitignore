@@ -1,0 +1,11 @@
+﻿.env
+.env.*
+!.env.example
+credentials.json
+serviceAccount.json
+secrets.yml
+*.pem
+*.key
+__pycache__/
+*.pyc
+.logs/
